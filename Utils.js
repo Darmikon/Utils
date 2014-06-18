@@ -1,4 +1,4 @@
-(function (){
+var Utils = (function (){
     var util={
         Chain:(function() {
             var Chain;
